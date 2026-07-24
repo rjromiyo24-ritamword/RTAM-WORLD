@@ -1,0 +1,6 @@
+{
+  "name": "Ritam World - Premium Online Toy Store",
+  "description": "Ritam World is a trusted Bangladeshi online toy shop offering premium quality RC cars, helicopters, robots, educational toys, and learning items with fast delivery and COD, bKash & Nagad payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
